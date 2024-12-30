@@ -48,10 +48,10 @@
 ## 🏆 Achievements
 
 - **4 Design Patents** in innovative engineering solutions.  
-  - 🎯 AI-based Sapling Growth Monitoring System  
-  - 🎯 Automatic Oil Dispenser  
-  - 🎯 Duo Duster  
-  - 🎯 Pill Bottle  
+  - 🎯 Auto-Leveling Tripod for AI-based Sapling Growth Monitoring System   
+  - 🎯 Smart Pill Bottle
+  - 🎯 Automatic Oil Dispenser 
+  - 🎯 Duo Duster
 
 ---
 
