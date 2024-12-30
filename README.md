@@ -58,5 +58,5 @@
 ## 🌐 Let's Connect!
 
 - 📝 **Portfolio:** [LinkedIn Profile](https://linkedin.com/in/yash-wakde444/)  
-- 📫 **Email:** yashwakde1@gmail.com  
+- 📫 **Email:** wakde.y@northeastern.edu  
 - 🌟 **Always open to collaboration and exciting opportunities!**
