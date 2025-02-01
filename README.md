@@ -30,7 +30,7 @@
 - 🦾 Successfully implemented **LIO-SAM** for high-precision **SLAM** leveraging **LiDAR** and **IMU** data.  
 - 🌍 Ensured robust navigation in dynamic environments with validated mapping accuracy.  
 - 📊 Presented results, offering insights to optimize future SLAM developments.
-   <div align="center">
+<div align="center">
 	<img width = "80%" src="spot2.JPG">
 </div>
 
