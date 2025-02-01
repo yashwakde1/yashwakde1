@@ -31,7 +31,7 @@
 - 🌍 Ensured robust navigation in dynamic environments with validated mapping accuracy.  
 - 📊 Presented results, offering insights to optimize future SLAM developments.  
 
-### 2️⃣ **Advanced Path Planning: BRRT***
+### 2️⃣ **Advanced Path Planning: BRRT*** ![Advanced Path Planning: BRRT] (Advanced-Path-Planning-BRRT_star/sampling-based-path-finding/outputs/brrtstar 2.png)
 - 🚀 Engineered a bi-directional variant of **RRT***, achieving faster convergence and superior path quality.  
 - 📈 Benchmarked against RRT, RRT*, and BRRT, demonstrating exceptional performance in obstacle-laden environments.  
 
