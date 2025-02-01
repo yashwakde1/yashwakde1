@@ -42,16 +42,17 @@
 </div>
 
 
-### 3️⃣ **GPS & IMU Sensor Fusion**
-- 🌐 Fused **GPS** and **IMU** data for automotive dead reckoning in **ROS2**, enhancing accuracy and reliability.  
-- 📊 Addressed sensor noise and bias through advanced calibration techniques.  
-
-### 4️⃣ **AI-Based Sapling Growth Monitoring System**
+### 3️⃣**AI-Based Sapling Growth Monitoring System**
 - 🌱 Designed an innovative AI-powered system with a patented auto-leveling tripod for stable image capture.  
 - 📷 Utilized **computer vision** to monitor growth patterns and improve agricultural practices.  
 <div align="center">
 	<img width = "80%" src="bamboo tracker.png">
 </div>
+
+
+### 4️⃣  **GPS & IMU Sensor Fusion**
+- 🌐 Fused **GPS** and **IMU** data for automotive dead reckoning in **ROS2**, enhancing accuracy and reliability.  
+- 📊 Addressed sensor noise and bias through advanced calibration techniques.  
 
 ---
 
