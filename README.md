@@ -49,6 +49,9 @@
 ### 4️⃣ **AI-Based Sapling Growth Monitoring System**
 - 🌱 Designed an innovative AI-powered system with a patented auto-leveling tripod for stable image capture.  
 - 📷 Utilized **computer vision** to monitor growth patterns and improve agricultural practices.  
+<div align="center">
+	<img width = "80%" src="bamboo tracker.png">
+</div>
 
 ---
 
