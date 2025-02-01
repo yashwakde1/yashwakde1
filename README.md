@@ -29,13 +29,16 @@
 ### 1️⃣ **LiDAR-Inertial SLAM on Boston Dynamics Spot**
 - 🦾 Successfully implemented **LIO-SAM** for high-precision **SLAM** leveraging **LiDAR** and **IMU** data.  
 - 🌍 Ensured robust navigation in dynamic environments with validated mapping accuracy.  
-- 📊 Presented results, offering insights to optimize future SLAM developments.  
+- 📊 Presented results, offering insights to optimize future SLAM developments.
+   <div align="center">
+	<img width = "80%" src="spot2.JPG">
+</div>
 
 ### 2️⃣ **Advanced Path Planning: BRRT***
 - 🚀 Engineered a bi-directional variant of **RRT***, achieving faster convergence and superior path quality.  
 - 📈 Benchmarked against RRT, RRT*, and BRRT, demonstrating exceptional performance in obstacle-laden environments.  
 <div align="center">
-	<img width = "80%" src="spot2.JPG">
+	<img width = "80%" src="brrtstar 2.png">
 </div>
 
 
