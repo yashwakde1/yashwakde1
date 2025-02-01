@@ -31,9 +31,13 @@
 - 🌍 Ensured robust navigation in dynamic environments with validated mapping accuracy.  
 - 📊 Presented results, offering insights to optimize future SLAM developments.  
 
-### 2️⃣ **Advanced Path Planning: BRRT*** ![Advanced Path Planning: BRRT] ([Advanced-Path-Planning-BRRT_star/sampling-based-path-finding/outputs/brrtstar 2.png](https://github.com/yashwakde1/Advanced-Path-Planning-BRRT_star-in-3D/blob/main/Advanced-Path-Planning-BRRT_star/sampling-based-path-finding/outputs/brrtstar%202.png)
+### 2️⃣ **Advanced Path Planning: BRRT***
 - 🚀 Engineered a bi-directional variant of **RRT***, achieving faster convergence and superior path quality.  
 - 📈 Benchmarked against RRT, RRT*, and BRRT, demonstrating exceptional performance in obstacle-laden environments.  
+<div align="center">
+	<img width = "80%" src="spot2.JPG">
+</div>
+
 
 ### 3️⃣ **GPS & IMU Sensor Fusion**
 - 🌐 Fused **GPS** and **IMU** data for automotive dead reckoning in **ROS2**, enhancing accuracy and reliability.  
