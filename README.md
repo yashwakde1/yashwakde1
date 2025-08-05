@@ -99,10 +99,10 @@
 ## 🏆 Achievements & Patents
 
 - **4 Design Patents** for practical engineering innovation:
-  - 🎯 **Auto-Leveling Tripod** for AI Sapling Monitoring  
-  - 🎯 **Smart Pill Bottle**  
-  - 🎯 **Automatic Oil Dispenser**  
-  - 🎯 **Duo Duster**  
+  - 🎯 [**Auto-Leveling Tripod** for AI Sapling Monitoring](https://search.ipindia.gov.in/DesignQRStatus/PDF_Viewer.aspx?AppNo=NDE3MjYwLTAwMQ==&CNo=MTc0MTgw)
+  - 🎯 [**Smart Pill Bottle**](https://search.ipindia.gov.in/DesignQRStatus/PDF_Viewer.aspx?AppNo=Mzg2MTUxLTAwMQ==&CNo=MTQxODc5)
+  - 🎯 [**Automatic Oil Dispenser**](https://search.ipindia.gov.in/DesignQRStatus/PDF_Viewer.aspx?AppNo=NDIwNDI5LTAwMQ==&CNo=MTc3NjY4)
+  - 🎯 [**Duo Duster**](https://search.ipindia.gov.in/DesignQRStatus/PDF_Viewer.aspx?AppNo=Mzg2Njc3LTAwMQ==&CNo=MTQxNjE0)
 
 ---
 
