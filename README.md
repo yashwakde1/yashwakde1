@@ -42,7 +42,7 @@
 - 🖼️ Transformed portraits into clean drawable paths using edge detection and graph theory.  
 - 🛠️ Addressed challenges like IK stability, waypoint optimization, and tool holding precision.  
 <div align="center">
-	<img width = "80%" src="sketchbot.png">
+	<img width = "80%" src="rss.png">
 </div>
 
 ---
@@ -73,7 +73,7 @@
 - 🔧 Tuned for dynamic calibration, sensor noise filtering, and drift mitigation.  
 - 📍 Used for trajectory tracking in automotive-scale robots.
 <div align="center">
-	<img width = "80%" src="gps.png">
+	<img width = "80%" src="gps.jpg">
 </div>
 ---
 
