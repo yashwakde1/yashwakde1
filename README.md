@@ -53,7 +53,7 @@
 - ✔️ Application areas include **robotic e-skin**, **HMI**, **biomedical wearables**, and **soft robotics**.  
 - 💡 Tackled fabrication challenges like gold adhesion, encapsulation, and uniform nanowire dispersion.  
 <div align="center">
-	<img width = "80%" src="strain_sensor.png">
+	<img width = "80%" src="strain.png">
 </div>
 
 ---
@@ -72,7 +72,9 @@
 - 🌐 Implemented dead reckoning by fusing **GPS** and **IMU** data streams.  
 - 🔧 Tuned for dynamic calibration, sensor noise filtering, and drift mitigation.  
 - 📍 Used for trajectory tracking in automotive-scale robots.
-
+<div align="center">
+	<img width = "80%" src="gps.png">
+</div>
 ---
 
 ### 🔹 **6. Advanced Path Planning: BRRT***
