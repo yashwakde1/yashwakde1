@@ -2,7 +2,7 @@
 
 🎓 **Master’s Student in Robotics** at **Northeastern University**, Boston  
 📍 Passionate about building intelligent, autonomous systems that bridge perception and control in the real world.  
-📧 **Email:** wakde.y@northeastern.edu | 📱 **Phone:** +1 857-398-7984 | 🌐 [LinkedIn](https://linkedin.com/in/yash-wakde444/)
+📧 **Email:** wakde.y@northeastern.edu | 📱 **Phone:** +1 857-398-7984 | 🌐 [LinkedIn](https://linkedin.com/in/yash-wakde444/) | [Portfolio](https://yashwakde.my.canva.site/)
 
 ---
 
